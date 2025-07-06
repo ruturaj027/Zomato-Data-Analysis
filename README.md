@@ -36,9 +36,6 @@ seaborn
 
 numpy
 
-wordcloud
-
-re and nltk for basic NLP tasks
 
 💡 Insights :
 
