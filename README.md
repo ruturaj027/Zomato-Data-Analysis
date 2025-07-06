@@ -2,7 +2,8 @@
 
 **This project performs exploratory data analysis (EDA) on the Zomato restaurant dataset. The main goal is to uncover insights about restaurant trends, customer preferences, and ratings in various cities using Python libraries such as pandas, matplotlib, seaborn, and numpy.**
 
-**📊 Key Features:**
+📊 Key Features:
+
 Data Cleaning: Handled null values, duplicates, and performed necessary preprocessing.
 
 Data Visualization: Used charts to explore:
@@ -19,12 +20,12 @@ Keyword Analysis: Extracted frequent positive and negative words from customer r
 
 Votes Analysis: Identified top and bottom restaurants based on user votes.
 
-**📁 Files:**
+📁 Files:
 Zomato Data Analysis.ipynb: Jupyter notebook with step-by-step code and visualizations.
 
 zomato.csv (if applicable): Dataset file (add a download link if hosted).
 
-**🚀 Libraries Used:**
+🚀 Libraries Used:
 pandas
 
 matplotlib
@@ -36,8 +37,8 @@ numpy
 wordcloud
 
 re and nltk for basic NLP tasks
-**
-💡 Insights:**
+
+💡 Insights:
 High-rated restaurants often have high vote counts, but not always.
 
 Some areas show more online delivery activity.
