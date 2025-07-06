@@ -21,11 +21,13 @@ Keyword Analysis: Extracted frequent positive and negative words from customer r
 Votes Analysis: Identified top and bottom restaurants based on user votes.
 
 📁 Files:
+
 Zomato Data Analysis.ipynb: Jupyter notebook with step-by-step code and visualizations.
 
 zomato.csv (if applicable): Dataset file (add a download link if hosted).
 
 🚀 Libraries Used:
+
 pandas
 
 matplotlib
@@ -39,6 +41,7 @@ wordcloud
 re and nltk for basic NLP tasks
 
 💡 Insights:
+
 High-rated restaurants often have high vote counts, but not always.
 
 Some areas show more online delivery activity.
